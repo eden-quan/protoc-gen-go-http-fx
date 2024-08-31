@@ -1,4 +1,4 @@
-module github.com/eden/protoc-gen-go-http-fx
+module github.com/eden-quan/protoc-gen-go-http-fx
 
 go 1.19
 

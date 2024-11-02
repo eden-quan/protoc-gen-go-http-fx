@@ -1,6 +1,6 @@
-module gitlab.lainuoniao.cn/eden-quan/protoc-gen-go-http-fx
+module gitlab.lainuoniao.cn/rhinobird/backend/protoc-gen-go-http-fx
 
-go 1.19
+go 1.22
 
 require (
 	google.golang.org/genproto/googleapis/api v0.0.0-20231212172506-995d672761c0

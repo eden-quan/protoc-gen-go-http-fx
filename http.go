@@ -21,8 +21,8 @@ const (
 	fxPackage            = protogen.GoImportPath("go.uber.org/fx")
 	transportHTTPPackage = protogen.GoImportPath("github.com/go-kratos/kratos/v2/transport/http")
 	bindingPackage       = protogen.GoImportPath("github.com/go-kratos/kratos/v2/transport/http/binding")
-	defPackage           = protogen.GoImportPath("gitlab.lainuoniao.cn/eden-quan/go-biz-kit/config/def")
-	clientPackage        = protogen.GoImportPath("gitlab.lainuoniao.cn/eden-quan/go-biz-kit/client")
+	defPackage           = protogen.GoImportPath("gitlab.lainuoniao.cn/rhinobird/backend/go-biz-kit.git/config/def")
+	clientPackage        = protogen.GoImportPath("gitlab.lainuoniao.cn/rhinobird/backend/go-biz-kit.git/client")
 )
 
 var methodSets = make(map[string]int)

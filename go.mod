@@ -1,4 +1,4 @@
-module gitlab.lainuoniao.cn/rhinobird/backend/protoc-gen-go-http-fx
+module gitlab.lainuoniao.cn/rhinobird/backend/protoc-gen-go-http-fx.git
 
 go 1.22
 
